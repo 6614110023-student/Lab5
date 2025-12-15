@@ -1,0 +1,13 @@
+.dart_tool
+.idea
+*.iml
+*.lock
+*.yaml
+android
+ios
+linux
+macos
+test
+web
+windows
+.metadata
